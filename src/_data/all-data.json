@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+	  "url": "test",
+      "enabled": true,
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quasi eos quibusdam, hic ipsa illum. Ducimus pariatur, ipsa soluta porro eos, deserunt, architecto minima nostrum laborum voluptas corporis tempora iure.",
+      "offers": [
+        {
+          "code": "123",
+          "text": "Lorem ipsum",
+          "enabled": true,
+          "characteristics": [
+            1,
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}
+

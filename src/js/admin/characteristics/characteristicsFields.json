@@ -1,0 +1,16 @@
+{
+  "characteristicsFields": [
+    {
+      "name": 1,
+      "type": "number",
+      "label": "Length",
+      "unit": "g"
+    },
+    {
+      "label": "Size",
+      "name": 2,
+      "unit": "m",
+      "type": "number"
+    }
+  ]
+}

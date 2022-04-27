@@ -1,0 +1,22 @@
+{
+  "characteristics": [
+    {
+      "label": "Length 101 g",
+      "value": "101",
+      "type": 1,
+      "id": 1
+    },
+    {
+      "label": "Size 100 m",
+      "type": 2,
+      "value": "100",
+      "id": 2
+    },
+    {
+      "label": "Size 200 m",
+      "type": 3,
+      "value": "100",
+      "id": 3
+    }
+  ]
+}

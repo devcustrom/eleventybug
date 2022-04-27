@@ -1,0 +1,12 @@
+---
+layout: layouts/index.njk
+pagination:
+    data: products
+    size: 1
+    alias: product
+permalink: "products/{{ product.url | slug }}/"
+---
+{% for item in characteristics %}
+	{{ item.id }}
+	{{ item.label }}
+{% endfor %}

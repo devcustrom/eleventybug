@@ -1,0 +1,22 @@
+{
+	"name": "EleventyBUG",
+	"scripts": {
+		"clean": "rimraf _site",
+		"build": "npx eleventy",
+		"dev": "npx eleventy --serve",
+		"debug": "DEBUG=* npx eleventy"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@11ty/eleventy": "^1.0.1",
+		"@11ty/eleventy-navigation": "^0.3.2",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
+		"@jamshop/eleventy-plugin-array-filters": "^1.0.1",
+		"clean-css": "^5.2.4",
+		"html-minifier": "^4.0.0",
+		"luxon": "^1.25.0",
+		"markdown-it": "^10.0.0",
+		"markdown-it-anchor": "^5.3.0",
+		"uglify-js": "^3.15.1"
+	}
+}
